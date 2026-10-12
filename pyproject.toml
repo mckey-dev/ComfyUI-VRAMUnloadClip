@@ -1,0 +1,13 @@
+[project]
+name = "ComfyUI-VRAMUnloadClip"
+description = "Unload CLIP / Text Encoder from VRAM after conditioning is built, without changing conditioning."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/mckey-dev/ComfyUI-VRAMUnloadClip"
+
+[tool.comfy]
+PublisherId = "mckey-dev"
+DisplayName = "ComfyUI-VRAMUnloadClip"
+Icon = ""
