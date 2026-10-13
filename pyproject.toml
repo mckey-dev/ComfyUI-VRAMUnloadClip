@@ -1,7 +1,7 @@
 [project]
 name = "ComfyUI-VRAMUnloadClip"
-description = "Unload CLIP / Text Encoder from VRAM after conditioning is built, without changing conditioning."
-version = "1.0.0"
+description = "Unload CLIP / Text Encoder from VRAM after prompt encoding or text generation, without changing outputs."
+version = "1.1.0"
 license = {file = "LICENSE"}
 
 [project.urls]
